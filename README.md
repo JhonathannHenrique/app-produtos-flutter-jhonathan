@@ -9,7 +9,10 @@ Um aplicativo Flutter simples e moderno para gerenciar o catálogo de produtos d
 
 | Lista de Produtos | Cadastro de Produto | Detalhes do Produto |
 |:---:|:---:|:---:|
-| ![Lista](images/lista.png) | ![Cadastro](images/cadastro.png) | ![Detalhes](images/detalhes.png) |
+| ![Lista]![imagem](https://github.com/user-attachments/assets/e2a72ba2-8d03-4df9-8c4d-933ccd1b447f)
+() | ![Cadastro](![imagem (1)](https://github.com/user-attachments/assets/9c50309e-589e-4ad6-b606-be2939ca5f90)
+) | ![Detalhes](![imagem (2)](https://github.com/user-attachments/assets/91525adf-7779-46e7-80fc-638ba9e92067)
+ |
 
 *(Nota: Adicione suas imagens na pasta `images/` com estes nomes para que sejam exibidas)*
 
